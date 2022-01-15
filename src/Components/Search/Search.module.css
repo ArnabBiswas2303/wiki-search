@@ -1,0 +1,10 @@
+.Search {
+  padding-top: 50px;
+  width: 100%;
+}
+
+.SearchInput {
+  width: 100%;
+  padding: 10px 30px;
+  font-size: 40px;
+}

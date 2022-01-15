@@ -1,0 +1,12 @@
+.Feed {
+  margin-top: 100px;
+  width: 100%;  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.FeedBox {
+  width: 80% !important;
+  margin: 20px 0;
+}
