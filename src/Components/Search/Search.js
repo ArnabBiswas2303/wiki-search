@@ -24,7 +24,7 @@ export default function Search(props) {
     });
     
     const data = await response.json();
-    console.log(data);    
+    console.log(data);
     props.onSearchChange(data.query.search);
   }
 
